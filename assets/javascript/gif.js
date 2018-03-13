@@ -2,8 +2,7 @@ $(document).ready(function () {
   console.log("ready!");
 
   var topics = ["Runescape", "Overwatch", "Call of duty", "Fallout", "Halo 3", "Borderlands", "League of Legends",
-    "Fortnite", "PubG"
-  ];
+    "Fortnite"];
   //use a function to create a list of buttons based off topics array
   function createButtons() {
     $(".buttons").empty();
