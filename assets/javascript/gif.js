@@ -89,7 +89,7 @@ $(document).ready(function () {
     });
   });
 
-  //add your own animal button
+  //add your own game button
 
   $(".submit").on("click", function (event) {
 
